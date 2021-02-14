@@ -1,0 +1,4 @@
+KNeighborsClassifier = 95.95238095238095
+GaussianNB (Naive Baye's) = 55.99047619047619
+Support Vector Classifier (SVC) = 97.04761904761905
+DecisionTreeClassifier = 83.71904761904761
